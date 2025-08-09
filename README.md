@@ -10,13 +10,13 @@
 - 🎓 ACT (**Associate in Computer Technology**) Student  
 - 💻 Passionate about **UI/UX Design** 
 - ☕ Powered by coffee & curiosity  
-- 🌱 Currently learning **Laravel, MySQL,Figma,**  
+- 🌱 Currently learning **Figma,**  
 
 ---
 
 ## ⚡ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,figma" />
+  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ---
