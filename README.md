@@ -9,7 +9,6 @@
 ## 🧑‍💻 About Me
 - 🎓 ACT (**Associate in Computer Technology**) Student  
 - 💻 Passionate about **UI/UX Design** 
-- ☕ Powered by coffee & curiosity  
 - 🌱 Currently learning **Figma,**  
 
 ---
